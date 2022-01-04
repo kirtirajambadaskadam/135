@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size:23px;
+}
+.note{
+    width: 100%;
+    margin: 0;
+    font-size:15px;
+    color: black;
+}
+#input1
+{
+    width: 500px;
+}
+#start, #status, #FoundOrNot{
+    font-size: 18px;
+}
